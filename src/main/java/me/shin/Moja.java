@@ -1,7 +1,7 @@
 package me.shin;
 
 @Magic
-public interface Moja2 {
+public interface Moja {
 
     String pullOut();
 }
